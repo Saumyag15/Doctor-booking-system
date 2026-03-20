@@ -1,6 +1,6 @@
 # Clinic Booking UI
 
-A polished, accessible multi-step booking flow for a fictional clinic — perfect for a resume portfolio. Built with React, TypeScript, and modern web standards.
+A polished, accessible multi-step booking flow for a fictional clinic. Built with React, TypeScript, and modern web standards.
 
 ## Features
 
@@ -76,16 +76,11 @@ The production build is ready to deploy to Vercel, Netlify, GitHub Pages, or any
 
 ## Resume Highlights
 
-✨ **Full-stack React proficiency** – From component architecture to form state management  
-✨ **TypeScript expertise** – Strict mode, type-safe props, discriminated unions  
-✨ **i18n implementation** – Real multilingual support, language switching  
-✨ **Accessibility** – WCAG-compliant semantic HTML and ARIA  
-✨ **Modern tooling** – Vite, ESM, fast dev iteration  
-✨ **Responsive design** – Mobile-first, CSS Grid, Flexbox  
-
-## Notes
-
-- Doctor data is hardcoded; can easily be fetched from an API
-- Confirmation sends a simple alert; integrate with a backend API for real bookings
-- Supports further enhancement: form validation, API integration, loading states, error handling
+✨ **React component architecture** – Reusable, well-structured components with clear separation of concerns  
+✨ **TypeScript expertise** – Strict mode, type-safe props, discriminated unions for UI state  
+✨ **i18n implementation** – Real multilingual support with language switching UI  
+✨ **Accessibility** – WCAG-compliant semantic HTML and ARIA for inclusive UI  
+✨ **Modern tooling** – Vite, ESM, fast dev iteration and optimized production builds  
+✨ **Responsive design** – Mobile-first, CSS Grid, Flexbox for polished UX  
+✨ **Form state management** – Multi-step form flow with client-side validation and state persistence
 
